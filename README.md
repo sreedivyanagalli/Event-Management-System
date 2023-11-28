@@ -1,1 +1,1 @@
-# Event-Management-System
+# An Event Management System (EMS) is a web-based application that streamlines the planning, organization, and execution of events. It provides a centralized platform for managing all aspects of an event, from budgeting and scheduling to registration and attendee communication. EMS tools can significantly improve the efficiency and effectiveness of event planning, saving time and resources while enhancing the overall event experience.
